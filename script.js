@@ -1,6 +1,6 @@
 // Sample file links (replace with your own)
 const fileLinks = [
-    { name: 'Curriculum.pdf', url: 'CV - Davi Mogrovejo Brasil.html' },
+    { name: 'Curriculum.pdf', url: 'CV - Davi Mogrovejo Brasil.pdf' },
     { name: 'Project Report.docx', url: 'files/project_report.docx' },
     { name: 'Profile Picture.jpg', url: 'files/profile_picture.jpg' }
 ];
